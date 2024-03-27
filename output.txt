@@ -1,0 +1,19 @@
+Operating systems are an essential part of any computer system. Similarly,
+a course on operating systems is an essential part of any computer science
+education. This field is undergoing rapid change, as computers are now
+prevalent in virtually every arena of day-to-day life—from embedded devices
+in automobiles through the most sophisticated planning tools for governments
+and multinational firms. Yet the fundamental concepts remain fairly clear, and
+it is on these that we base this book.
+
+We wrote this book asa text for an introductory course in operating systems
+at the junior or senior undergraduate level or at the first-year graduate level. We
+hope that practitioners will also find it useful. It provides a clear description
+of the concepts that underlie operating systems. As prerequisites, we assume
+that the reader is familiar with basic data structures, computer organization,
+and a high-level language, such as C or Java. The hardware topics required
+for an understanding of operating systems are covered in Chapter 1. In that
+chapter, we also include an overview of the fundamental data structures that are
+prevalent in most operating systems. For code examples, we use predominantly
+C, with some Java, but the reader can still understand the algorithms without
+a tharanch ennawiloedos nlthaces beware
